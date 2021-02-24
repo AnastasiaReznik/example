@@ -1,4 +1,7 @@
-<?php function count()
-{
-    return 1+5;
-}
+<?php
+
+function getPerson() {
+    return 1 + " " + 5;
+  }
+
+?>
